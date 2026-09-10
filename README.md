@@ -1,4 +1,11 @@
+<p align="center">
+  <a href="https://github.com/shy1245">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Always+learning+new+technologies;Building+things+for+the+web+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
+
   <p><img <img width="500" height="228" alt="co" src="https://github.com/user-attachments/assets/8afb3f46-94bc-456c-8716-3dced0ad215f" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Shahad</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
