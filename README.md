@@ -23,6 +23,16 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 <img src="https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects">&nbsp;
 <img src="https://img.shields.io/badge/-Media%20Encoder-05122A?style=flat&logo=adobemediaencoder&logoColor=9999FF" alt="Media Encoder">&nbsp;
+
+<h3 id="github-analytics">📊 &nbsp;GitHub Analytics</h3>
+
+<p align="center">
+<a href="https://github.com/shy1245">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shy1245&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shy1245&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
   <a href="https://shy1245.github.io/shy1245/"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
