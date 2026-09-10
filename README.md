@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS">&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">&nbsp;
-<img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">&nbsp;
 <img src="https://img.shields.io/badge/-After%20Effects-05122A?style=flat&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects">&nbsp;
 <img src="https://img.shields.io/badge/-Media%20Encoder-05122A?style=flat&logo=adobemediaencoder&logoColor=9999FF" alt="Media Encoder">&nbsp;
