@@ -41,8 +41,7 @@
   <a href="https://github.com/shy1245"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></a>
 </p>
 <hr>
-<p>Credits: <a href="https://github.com/AVS1508">Aditya Vikram Singh</a></p>
-<p>Last Edited on: 11/12/2020</p> 
+
 <!--
 **shy1245/shy1245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
