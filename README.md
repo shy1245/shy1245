@@ -38,10 +38,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <h3 id="-connect-with-me">🤝🏻 &nbsp;Connect with Me</h3>
 <p align="center">
-  <a href="https://shy1245.github.io/shy1245/"><img src="https://img.shields.io/badge/-Website-3423A6?style=flat&logo=Google-Chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shahad-shahfy/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="mailto:shahadshafy101@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></a>
-  <a href="https://github.com/shy1245"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white"></a>
 </p>
 <hr>
 <!--
