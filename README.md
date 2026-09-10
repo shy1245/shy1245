@@ -3,12 +3,12 @@
 <p><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"></p><h2>Hey there! I’m Shahad</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
-<p>💡 &nbsp;I like to explore new technologies and develo
-🎓 &nbsp; I'm a recent graduate in **Full-Stack Web Development** from **Taibah University
+<p>💡 &nbsp;I like to explore new technologies and develo<br>
+🎓 &nbsp; I'm a recent graduate in **Full-Stack Web Development** from **Taibah University<br>
 🌱 &nbsp; Passionate about solving real-world problems through robust full-stack development and intuitive user interfaces..<br>
 ✍️ &nbsp;I'm really care about video editing, visual design, and mastering motion graphics./side hustles.<br>
 🎯 &nbsp;I'm actively seeking a **Cooperative Training (Co-op)** opportunity to gain practical experience and grow as a developer.<br>
- 💻 &nbsp; i really care about building web applications and turning ideas into functional, user-friendly solutions. 
+ 💻 &nbsp; i really care about building web applications and turning ideas into functional, user-friendly solutions. <br>
 <img width="400" height="300" alt="PinGrab_1788256418464" src="https://github.com/user-attachments/assets/827c7a3d-4bfb-4038-8324-9cd156b21379" />
  />
 <h3 id="tech-stack">🛠️ Tech Stack</h3>
